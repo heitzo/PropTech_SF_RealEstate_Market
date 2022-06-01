@@ -8,7 +8,7 @@ Proptech, the application of technology to real-estate markets, is an innovative
 Your job is to use your data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
 What You're Creating
 
-For this Challenge assignment, you’ll need to create and submit the following deliverable:
+You’ll need to create the following deliverable:
 A Jupyter notebook that contains your analysis of the housing rental market data for San Francisco. The analysis will be complete with professionally styled and formatted interactive visualizations.
 Remember to upload your Jupyter notebook for this assignment to your GitHub repository. Make sure to update the README.md file to explain your project and any information that’s needed to interact with your plots.
 
